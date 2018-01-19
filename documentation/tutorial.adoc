@@ -165,7 +165,7 @@ Open [guilabel]#Java Resources# and below it [filename]#src/main/java#, the main
 TIP: Eclipse shows all project files in the Project Explorer.
 In this case, you can also find your [filename]#.java# files from under the top-level [filename]#src# node.
 However, the suggested method is to access them from under the [guilabel]#Java Resources# node, which is optimized for editing Java source code.
-
+ssssssssssssssssss
 The UI code (and the Servlet declaration) used by the application stub can be
 found in the [filename]#MyUI.java# file.
 Let us read it through to see how it works.
